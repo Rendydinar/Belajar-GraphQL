@@ -1,0 +1,1 @@
+Kita akan Updating the Resolve functions agar dapat mengsuport penggunaan database mongodb.

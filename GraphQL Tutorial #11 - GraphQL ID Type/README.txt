@@ -1,0 +1,1 @@
+Mencoba Type GraphQLID, khusus untuk menghandle id data.

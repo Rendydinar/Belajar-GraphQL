@@ -1,0 +1,1 @@
+Membuat component pada React untuk menambahkan data book.

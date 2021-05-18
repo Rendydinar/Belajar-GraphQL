@@ -1,0 +1,1 @@
+Merender data ke dalam component

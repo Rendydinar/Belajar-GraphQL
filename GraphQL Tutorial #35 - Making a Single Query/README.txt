@@ -1,0 +1,1 @@
+Kita akan melakukan single query ke graphql server untuk mendapatkan data 1 buku secara detail.

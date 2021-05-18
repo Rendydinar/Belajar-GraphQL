@@ -1,0 +1,1 @@
+Membuat variabel untuk melakukan query graphql saat proses mutation
